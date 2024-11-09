@@ -1,0 +1,45 @@
+
+#Ignore thumbnails created by Windows
+Thumbs.db
+#Ignore files built by Visual Studio
+*.obj
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+.vs/
+#Nuget packages folder
+packages/
+AzureDevOps.WikiPDFExport.Test/Tests/Azure-Platform-Design/
+AzureDevOps.WikiPDFExport/.local-chromium/
+tests/*
+AzureDevOps.WikiPDFExport.Test/Tests/1k/*
+AzureDevOps.WikiPDFExport/.html
+AzureDevOps.WikiPDFExport/export.pdf
+**/.local-chromium
+AzureDevOps.WikiPDFExport.Test/Tests/example-footer.html
+AzureDevOps.WikiPDFExport.Test/Tests/example-header.html
+output/*
+/AzureDevOps.WikiPDFExport/Properties/launchSettings.json
+AzureDevOps.WikiPDFExport.Test/IntegrationTests-Data/Outputs
+AzureDevOps.WikiPDFExport.Test/test-data/Inputs/Azure-Platform-Design/*
+AzureDevOps.WikiPDFExport.Test/test-data/Inputs/1k/html.html
