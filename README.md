@@ -178,7 +178,7 @@ apt-get install -y gconf-service libasound2 libatk1.0-0 libc6 libcairo2 libcups2
 * [Email Address](luongutnho@hotmail.com)
 
 ![](https://i.imgur.com/waxVImv.png)
-![](Donate.png)
+![](Donate.jpg)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
